@@ -6,6 +6,7 @@ _Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contri
 
 - [By technology](#by-technology)
   - [Go](#go)
+  - [JavaScript](#javascript)
 - [By country](#by-country)
   - [Netherlands](#netherlands)
 - [Related](#related)
@@ -18,6 +19,10 @@ _Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contri
 
 - [dotGo (Paris)](https://www.dotgo.eu/)
 - [GOTO (Berlin)](https://gotober.com/)
+
+## JavaScript
+
+- [JS Conf (Berlin)](https://2018.jsconf.eu/)
 
 ## By country
 

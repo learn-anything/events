@@ -20,7 +20,7 @@ _Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contri
 - [dotGo (Paris)](https://www.dotgo.eu/)
 - [GOTO (Berlin)](https://gotober.com/)
 
-## JavaScript
+### JavaScript
 
 - [JS Conf (Berlin)](https://2018.jsconf.eu/)
 

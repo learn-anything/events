@@ -7,16 +7,13 @@
 
 #### Contents
 
-- [By country](#by-country)
 - [By technology](#by-technology)
+  - [Go](#go)
+  - [JavaScript](#javascript)
+  - [Functional Programming](#functional-programming)
+- [By country](#by-country)
 
 ---
-
-## By country
-
-### Netherlands
-
-- [Awesome Netherlands events](https://github.com/awkward/awesome-netherlands-events#readme)
 
 ## By technology
 
@@ -28,6 +25,17 @@
 ### JavaScript
 
 - [JS Conf (Berlin)](https://2018.jsconf.eu/)
+
+### Functional Programming
+
+- [f(by)](https://fby.by/)
+
+## By country
+
+### Netherlands
+
+- [Awesome Netherlands events](https://github.com/awkward/awesome-netherlands-events#readme)
+
 
 ---
 

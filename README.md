@@ -17,6 +17,10 @@
 
 ## By technology
 
+### iOS
+
+- [UIKonf](http://www.uikonf.com/) - Berlin's independent conference for serious iOS developers.
+
 ### Go
 
 - [DotGo (Paris)](https://www.dotgo.eu/)
@@ -35,7 +39,6 @@
 ### Netherlands
 
 - [Awesome Netherlands events](https://github.com/awkward/awesome-netherlands-events#readme)
-
 
 ---
 

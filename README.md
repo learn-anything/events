@@ -11,6 +11,7 @@
   - [Go](#go)
   - [JavaScript](#javascript)
   - [Functional Programming](#functional-programming)
+  - [Distributed systems](#distributed-systems)
 - [By country](#by-country)
 
 ---
@@ -33,6 +34,10 @@
 ### Functional Programming
 
 - [f(by)](https://fby.by/)
+
+### Distributed systems
+
+- [DATA TERRA NEMO](https://dtn.is/) - Technical conference for hackers and computer scientists focused on distributed and decentralized systems.
 
 ## By country
 

@@ -13,6 +13,7 @@
   - [Functional Programming](#functional-programming)
   - [Distributed systems](#distributed-systems)
 - [By country](#by-country)
+- [Other](#other)
 
 ---
 
@@ -44,6 +45,10 @@
 ### Netherlands
 
 - [Awesome Netherlands events](https://github.com/awkward/awesome-netherlands-events#readme)
+
+## Other
+
+- [List of awesome conferences](https://github.com/watson/conferences#readme)
 
 ---
 

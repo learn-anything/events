@@ -13,6 +13,7 @@
   - [ReasonML](#reasonml)
   - [Functional Programming](#functional-programming)
   - [Distributed systems](#distributed-systems)
+  - [Startups](#startups)
 - [By country](#by-country)
 - [Other](#other)
 
@@ -45,6 +46,10 @@
 ### Distributed systems
 
 - [DATA TERRA NEMO](https://dtn.is/) - Technical conference for hackers and computer scientists focused on distributed and decentralized systems.
+
+### Startups
+
+- [Release Notes](https://2019.releasenotes.tv/) - Building online businesses & financial freedom.
 
 ## By country
 

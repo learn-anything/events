@@ -14,6 +14,7 @@
   - [Functional Programming](#functional-programming)
   - [Distributed systems](#distributed-systems)
   - [Startups](#startups)
+  - [Open source](#open-source)
 - [By country](#by-country)
 - [Other](#other)
 
@@ -50,6 +51,10 @@
 ### Startups
 
 - [Release Notes](https://2019.releasenotes.tv/) - Building online businesses & financial freedom.
+
+### Open source
+
+- [GitHub Satellite](https://githubsatellite.com/) - Join workshops and talks for today’s software developers, maintainers, and teams.
 
 ## By country
 

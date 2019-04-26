@@ -11,6 +11,7 @@
   - [Go](#go)
   - [JavaScript](#javascript)
   - [ReasonML](#reasonml)
+  - [Rust](#rust)
   - [Functional Programming](#functional-programming)
   - [Distributed systems](#distributed-systems)
   - [Startups](#startups)
@@ -39,6 +40,10 @@
 ### ReasonML
 
 - [ReasonConf](https://www.reason-conf.com/) - ReasonML conference for web developers & OCaml enthusiasts.
+
+### Rust
+
+- [Oxidize](https://oxidizeconf.com/) - Conference for people interested in embedded Rust.
 
 ### Functional Programming
 

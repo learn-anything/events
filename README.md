@@ -70,6 +70,7 @@
 ## Other
 
 - [List of awesome conferences](https://github.com/watson/conferences#readme)
+- [Craft Conference](https://craft-conf.com/) - Inclusive and professional conference about software craft.
 
 ---
 

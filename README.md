@@ -12,6 +12,7 @@
   - [JavaScript](#javascript)
   - [ReasonML](#reasonml)
   - [Rust](#rust)
+  - [GraphQL](#graphql)
   - [Functional Programming](#functional-programming)
   - [Distributed systems](#distributed-systems)
   - [Startups](#startups)
@@ -27,6 +28,7 @@
 
 - [UIKonf](http://www.uikonf.com/) - Berlin's independent conference for serious iOS developers.
 - [List of cocoa conferences for iOS & macOS developers](https://cocoaconferences.com/)
+- [NSNorth](http://nsnorth.ca/) - Canada's Independent Apple Developer and Designer Event.
 
 ### Go
 
@@ -44,6 +46,10 @@
 ### Rust
 
 - [Oxidize](https://oxidizeconf.com/) - Conference for people interested in embedded Rust.
+
+### GraphQL
+
+- [GraphQL Conf](https://www.graphqlconf.org/) - Non-profit GraphQL conference with speakers from all around the world.
 
 ### Functional Programming
 

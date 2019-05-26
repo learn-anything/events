@@ -66,6 +66,7 @@
 ### Open source
 
 - [GitHub Satellite](https://githubsatellite.com/) - Join workshops and talks for today’s software developers, maintainers, and teams.
+- [Maintainerati](https://maintainerati.org) - An unconference for open source software maintainers. No talks, just discussions.
 
 ## By country
 

@@ -10,6 +10,7 @@
 - [By technology](#by-technology)
   - [Go](#go)
   - [JavaScript](#javascript)
+  - [React](#react)
   - [ReasonML](#reasonml)
   - [Rust](#rust)
   - [GraphQL](#graphql)
@@ -38,6 +39,10 @@
 ### JavaScript
 
 - [JS Conf (Berlin)](https://2018.jsconf.eu/)
+
+### React
+
+- [React Day Berlin](https://reactday.berlin/)
 
 ### ReasonML
 

@@ -16,6 +16,7 @@
   - [GraphQL](#graphql)
   - [Functional Programming](#functional-programming)
   - [Distributed systems](#distributed-systems)
+  - [Design](#design)
   - [Startups](#startups)
   - [Open source](#open-source)
 - [By country](#by-country)
@@ -64,6 +65,10 @@
 ### Distributed systems
 
 - [DATA TERRA NEMO](https://dtn.is/) - Technical conference for hackers and computer scientists focused on distributed and decentralized systems.
+
+### Design
+
+- [Layers](http://layers.is/) - Conference about design and technology.
 
 ### Startups
 

@@ -20,6 +20,8 @@
   - [Startups](#startups)
   - [Open source](#open-source)
 - [By country](#by-country)
+  - [Netherlands](#netherlands)
+  - [Germany](#germany)
 - [Other](#other)
 
 ---
@@ -85,6 +87,10 @@
 ### Netherlands
 
 - [Awesome Netherlands events](https://github.com/awkward/awesome-netherlands-events#readme)
+
+### Germany
+
+- [BerlinJS](https://berlinjs.org/) - Usergroup focused on JavaScript and related topics.
 
 ## Other
 

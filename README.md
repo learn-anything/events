@@ -19,6 +19,7 @@
   - [Design](#design)
   - [Startups](#startups)
   - [Open source](#open-source)
+  - [Other](#other)
 - [By country](#by-country)
   - [Netherlands](#netherlands)
   - [Germany](#germany)
@@ -81,6 +82,10 @@
 - [GitHub Satellite](https://githubsatellite.com/) - Join workshops and talks for today’s software developers, maintainers, and teams.
 - [Maintainerati](https://maintainerati.org/) - An unconference for open source software maintainers. No talks, just discussions.
 - [All Things Open](https://allthingsopen.org/) - A conference exploring Open Source, Open Tech and Open Web in the Enterprise.
+
+## Other
+
+- [Chaos Communication Camp](https://events.ccc.de/camp/2019/) - International, five-day open-air event for hackers and associated life-forms.
 
 ## By country
 

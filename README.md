@@ -72,6 +72,7 @@
 ### Design
 
 - [Layers](http://layers.is/) - Conference about design and technology.
+- [ARTIFACT](https://artifactconf.com/) - Intimate, two-day, single-track conference to share big ideas and best practices for creating sites that work for everyone.
 
 ### Startups
 

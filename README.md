@@ -86,6 +86,7 @@
 
 ## Other
 
+- [performance.now()](https://perfnow.nl/) - Covering today’s most important web performance insights.
 - [Chaos Communication Camp](https://events.ccc.de/camp/2019/) - International, five-day open-air event for hackers and associated life-forms.
 
 ## By country

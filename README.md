@@ -13,6 +13,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
   - [GraphQL](#graphql)
   - [Functional Programming](#functional-programming)
   - [Distributed systems](#distributed-systems)
+  - [Data science](#data-science)
   - [Design](#design)
   - [Startups](#startups)
   - [Open source](#open-source)
@@ -63,6 +64,10 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 ### Distributed systems
 
 - [DATA TERRA NEMO](https://dtn.is/) - Technical conference for hackers and computer scientists focused on distributed and decentralized systems.
+
+### Data science
+
+- [Data Natives](https://datanatives.io/)
 
 ### Design
 

@@ -7,6 +7,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [By technology](#by-technology)
   - [Go](#go)
   - [JavaScript](#javascript)
+  - [TypeScript](#typescript)
   - [React](#react)
   - [ReasonML](#reasonml)
   - [Rust](#rust)
@@ -40,6 +41,10 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 - [JS Conf (Berlin)](https://2018.jsconf.eu/)
 - [Full Stack Fest](https://2019.fullstackfest.com/)
+
+### TypeScript
+
+- [TSConf EU](https://tsconf.eu/)
 
 ### React
 

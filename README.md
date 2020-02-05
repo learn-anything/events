@@ -49,6 +49,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 ### React
 
 - [React Day Berlin](https://reactday.berlin/)
+- [App.js](https://appjs.co/) - Expo & React Native conference in Europe.
 
 ### ReasonML
 

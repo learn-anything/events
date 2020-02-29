@@ -10,6 +10,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
   - [TypeScript](#typescript)
   - [React](#react)
   - [ReasonML](#reasonml)
+  - [Swift](#swift)
   - [Rust](#rust)
   - [GraphQL](#graphql)
   - [Functional Programming](#functional-programming)
@@ -54,6 +55,10 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 ### ReasonML
 
 - [ReasonConf](https://www.reason-conf.com/) - ReasonML conference for web developers & OCaml enthusiasts.
+
+### Swift
+
+- [Swift Aveiro](https://swiftaveiro.xyz/)
 
 ### Rust
 

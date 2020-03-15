@@ -114,6 +114,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 - [List of awesome conferences](https://github.com/watson/conferences#readme)
 - [Craft Conference](https://craft-conf.com/) - Inclusive and professional conference about software craft.
+- [List of Homeferences](https://github.com/homeferences/list#readme) - Homeferences are Conferences which happen virtually, so you can attend from your home.
 
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)

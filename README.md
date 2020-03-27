@@ -100,6 +100,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 - [performance.now()](https://perfnow.nl/) - Covering today’s most important web performance insights.
 - [Chaos Communication Camp](https://events.ccc.de/camp/2019/) - International, five-day open-air event for hackers and associated life-forms.
+- [RISC-V Summit](https://tmt.knect365.com/risc-v-summit/)
 
 ## By country
 

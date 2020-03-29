@@ -68,7 +68,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 ### Julia
 
-- [JuliaCon](https://juliacon.org/2020/)
+- [JuliaCon](https://juliacon.org/)
 
 ### GraphQL
 

@@ -12,6 +12,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
   - [ReasonML](#reasonml)
   - [Swift](#swift)
   - [Rust](#rust)
+  - [Julia](#julia)
   - [GraphQL](#graphql)
   - [Functional Programming](#functional-programming)
   - [Distributed systems](#distributed-systems)
@@ -64,6 +65,10 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 ### Rust
 
 - [Oxidize](https://oxidizeconf.com/) - Conference for people interested in embedded Rust.
+
+### Julia
+
+- [JuliaCon](https://juliacon.org/2020/)
 
 ### GraphQL
 

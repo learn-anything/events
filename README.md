@@ -108,6 +108,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [RISC-V Summit](https://tmt.knect365.com/risc-v-summit/)
 - [WooSesh](https://woosesh.com/)
 - [Capital Camp](https://www.capitalcamp.com/)
+- [Deconstruct](https://www.deconstructconf.com/)
 
 ## By country
 

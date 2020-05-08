@@ -109,6 +109,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [WooSesh](https://woosesh.com/)
 - [Capital Camp](https://www.capitalcamp.com/)
 - [Deconstruct](https://www.deconstructconf.com/)
+- [\<Programming\>](https://programming-conference.org/) Conference focused on everything to do with programming including the experience of programming.
 
 ## By country
 
@@ -130,4 +131,3 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
 [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
 [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
-

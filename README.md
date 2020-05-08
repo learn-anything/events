@@ -109,7 +109,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [WooSesh](https://woosesh.com/)
 - [Capital Camp](https://www.capitalcamp.com/)
 - [Deconstruct](https://www.deconstructconf.com/)
-- [\<Programming\>](https://programming-conference.org/) Conference focused on everything to do with programming including the experience of programming.
+- [\<Programming\>](https://programming-conference.org/) - Conference focused on everything to do with programming including the experience of programming.
 
 ## By country
 

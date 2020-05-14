@@ -13,6 +13,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
   - [Swift](#swift)
   - [Rust](#rust)
   - [Julia](#julia)
+  - [Haskell](#haskell)
   - [GraphQL](#graphql)
   - [Functional Programming](#functional-programming)
   - [Distributed systems](#distributed-systems)
@@ -69,6 +70,10 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 ### Julia
 
 - [JuliaCon](https://juliacon.org/)
+
+### Haskell
+
+- [Zurihac](https://zfoh.ch/zurihac2020/)
 
 ### GraphQL
 

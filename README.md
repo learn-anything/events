@@ -86,6 +86,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 ### Distributed systems
 
 - [DATA TERRA NEMO](https://dtn.is/) - Technical conference for hackers and computer scientists focused on distributed and decentralized systems.
+- [Our Networks](https://ournetworks.ca/) - Conference about the past, present, and future of building our own network infrastructures.
 
 ### Data science
 

@@ -62,6 +62,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 ### Swift
 
 - [Swift Aveiro](https://swiftaveiro.xyz/)
+- [Swift India](https://swiftindia.in/)
 
 ### Rust
 

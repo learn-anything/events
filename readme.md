@@ -1,8 +1,6 @@
-# Events [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
+# Events [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
 
-_Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributing._
-
-#### Contents
+_Please read [contribution guidelines](contributing.md) before contributing._
 
 - [By technology](#by-technology)
   - [Go](#go)
@@ -123,7 +121,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 ### Netherlands
 
-- [Awesome Netherlands events](https://github.com/awkward/awesome-netherlands-events#readme)
+- [Awesome Netherlands events](https://github.com/awkward/awesome-netherlands-events)
 
 ### Germany
 
@@ -131,11 +129,11 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 ## Other
 
-- [List of awesome conferences](https://github.com/watson/conferences#readme)
+- [List of awesome conferences](https://github.com/watson/conferences)
 - [Craft Conference](https://craft-conf.com/) - Inclusive and professional conference about software craft.
-- [List of Homeferences](https://github.com/homeferences/list#readme) - Homeferences are Conferences which happen virtually, so you can attend from your home.
+- [List of Homeferences](https://github.com/homeferences/list) - Homeferences are Conferences which happen virtually, so you can attend from your home.
 
-[![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
-[![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
+[![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/)
+[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
+[![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](contributing.md)
 [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)

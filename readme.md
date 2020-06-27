@@ -23,6 +23,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [By country](#by-country)
   - [Netherlands](#netherlands)
   - [Germany](#germany)
+  - [Russia](#russia)
 - [Other](#other)
 
 ## By technology
@@ -127,6 +128,10 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ### Germany
 
 - [BerlinJS](https://berlinjs.org/) - Usergroup focused on JavaScript and related topics.
+
+### Russia
+
+- [MobiusConf](https://mobiusconf.com/) - Conference for mobile developers.
 
 ## Other
 

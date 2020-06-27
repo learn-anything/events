@@ -116,6 +116,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Deconstruct](https://www.deconstructconf.com/)
 - [\<Programming\>](https://programming-conference.org/) - Conference focused on everything to do with programming including the experience of programming. ([2020 talks](https://docs.google.com/spreadsheets/d/1tuyRit9qQN1kwckS3rND8GmvSKPo-qBJW8aroEIwFt8/edit#gid=0))
 - [NE-RPC](https://ne-rpc.co.uk/) - North East Remote Programming Conference.
+- [SuperConf](https://superconf.com/)
 
 ## By country
 

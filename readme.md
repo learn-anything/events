@@ -43,6 +43,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [JS Conf (Berlin)](https://2018.jsconf.eu/)
 - [Full Stack Fest](https://2019.fullstackfest.com/)
+- [CascadiaJS](https://cascadiajs.com/)
 
 ### TypeScript
 

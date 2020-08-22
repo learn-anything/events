@@ -63,6 +63,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Swift Aveiro](https://swiftaveiro.xyz/)
 - [Swift India](https://swiftindia.in/)
+- [Swift Island](https://swiftisland.nl/)
 
 ### Rust
 
